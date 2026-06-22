@@ -6,7 +6,7 @@
 
 A visual dial-plan **editor for FreePBX** and a first-class **read-only visualizer for VitalPBX** — served from your own PBX at `/cfstudio/`.
 
-[**Website**](https://callflowstudio.io) · [**Screenshots**](https://callflowstudio.io/screenshots) · [**Pricing**](https://callflowstudio.io/pricing) · [**Releases**](https://callflowstudio.io/releases) · [**Support**](https://support.callflowstudio.io)
+[**Website**](https://callflowstudio.io) · [**Screenshots**](https://callflowstudio.io/screenshots) · [**Pricing**](https://callflowstudio.io/pricing) · [**Releases**](https://callflowstudio.io/releases) · <support@callflowstudio.io>
 
 </div>
 
@@ -49,7 +49,7 @@ Auto-detected at install — one package covers all of the above.
 
 ## Pricing
 
-A **30-day free trial, no card required.** After that, a simple one-time **per-PBX license** — current pricing is on the [website](https://callflowstudio.io/pricing). If a trial or license lapses, a **free floor remains** (single PBX, up to 2 tenants), so you never lose access to what you've already built.
+A **30-day free trial, no card required.** After that, a simple one-time **per-PBX license** — current pricing is on the [website](https://callflowstudio.io/pricing). If the trial lapses, the **free floor remains** (FreePBX: Visualize only, VitalPBX: up to 2 tenants).
 
 → [**Start a trial / get a license**](https://callflowstudio.io)
 
@@ -57,7 +57,7 @@ A **30-day free trial, no card required.** After that, a simple one-time **per-P
 
 - **Install, licensing, and usage docs:** [callflowstudio.io](https://callflowstudio.io)
 - **Release notes:** [callflowstudio.io/releases](https://callflowstudio.io/releases)
-- **Support:** [support@callflowstudio.io](mailto://supportcall@flowstudio.io)
+- **Support:** <support@callflowstudio.io>
 
 ---
 
