@@ -57,7 +57,7 @@ A **30-day free trial, no card required.** After that, a simple one-time **per-P
 
 - **Install, licensing, and usage docs:** [callflowstudio.io](https://callflowstudio.io)
 - **Release notes:** [callflowstudio.io/releases](https://callflowstudio.io/releases)
-- **Support:** [support.callflowstudio.io](https://support.callflowstudio.io)
+- **Support:** [support@callflowstudio.io](mailto://supportcall@flowstudio.io)
 
 ---
 
