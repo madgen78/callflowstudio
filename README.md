@@ -6,7 +6,7 @@
 
 A visual dial-plan **editor for FreePBX** and a first-class **read-only visualizer for VitalPBX** — served from your own PBX at `/cfstudio/`.
 
-[**Website**](https://callflowstudio.io) · [**Screenshots**](https://callflowstudio.io/screenshots) · [**Pricing**](https://callflowstudio.io/pricing) · [**Releases**](https://callflowstudio.io/releases) · <support@callflowstudio.io>
+[**Website**](https://callflowstudio.io) · [**Demo**](https://callflowstudio.io/demo) · [**Screenshots**](https://callflowstudio.io/screenshots) · [**Pricing**](https://callflowstudio.io/pricing) · [**Releases**](https://callflowstudio.io/releases) · <support@callflowstudio.io>
 
 </div>
 
