@@ -49,9 +49,13 @@ Auto-detected at install — one package covers all of the above.
 
 ## Pricing
 
-A **30-day free trial, no card required.** After that, a simple one-time **per-PBX license** — current pricing is on the [website](https://callflowstudio.io/pricing). If the trial lapses, the **free floor remains** (FreePBX: Visualize only, VitalPBX: up to 2 tenants).
+On the **FreePBX family**, the complete read-only visualizer is **free for good**. No credit card, no expiry. Editing is the optional part, and you get it for your first 30 days.
 
-→ [**Start a trial / get a license**](https://callflowstudio.io)
+On **VitalPBX**, Call Flow Studio is read-only for everyone, so the free tier covers your first two tenants and a license opens the rest.
+
+Editing on the FreePBX family and every tenant on VitalPBX come from the same one-time **per-PBX license**, same price on both platforms. Current pricing is on the [website](https://callflowstudio.io/pricing). There is no paywall and no locked-out screen: if a license lapses, the install settles back onto the free tier and nothing you have built is deleted.
+
+→ [**Get Call Flow Studio**](https://callflowstudio.io)
 
 ## Documentation & support
 
