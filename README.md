@@ -60,6 +60,8 @@ Call Flow Studio runs entirely on your own PBX, served from `/cfstudio/` on the 
 
 Auto-detected at install — one package covers all of the above.
 
+**You don't need a deployment ID.** Call Flow Studio is not a FreePBX module and is not distributed through the FreePBX module store, so none of the commercial-module machinery applies. It installs alongside your PBX at `/cfstudio/` and identifies FreePBX by its configuration file, not by registration status. No deployment ID, no Sangoma account, no portal entitlement. A self-built FreePBX, a distribution rebuild, an unregistered box, or an older install that predates all of it works exactly the same. Nothing appears in Module Admin, and FreePBX module updates leave it untouched.
+
 ## Pricing
 
 On the **FreePBX family**, the complete read-only visualizer is **free for good**. No credit card, no expiry. Editing is the optional part, and you get it for your first 30 days.
