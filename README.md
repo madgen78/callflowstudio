@@ -17,7 +17,7 @@ Phone-system admins read their dial plan backward — clicking destination by de
 <div align="center">
 
 <!-- Representative per-DID view — a single inbound number's call flow, not a wall of every route at once. -->
-<img src="screenshots/main-number-flow.png" alt="A single inbound number's call flow rendered in Call Flow Studio" width="820">
+<img src="screenshots/cloverdon-medical-flow.png" alt="A single inbound number's call flow rendered in Call Flow Studio" width="820">
 
 </div>
 
